@@ -1,6 +1,6 @@
 
 // This script displays a greeting to the user based upon the current time. 
-// It is an example or working from JavaScript & jQuery book.
+// It is an example of working from JavaScript & jQuery book.
 
 var today = new Date(); //Create a new date object
 var hourNow = today.getHours(); //Find the current hour
